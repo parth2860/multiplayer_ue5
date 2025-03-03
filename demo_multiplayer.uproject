@@ -15,6 +15,14 @@
 			"Name": "PlayFab",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/217fdf581b784571af03d3fb6580368f"
+		},
+		{
+			"Name": "BanshAds",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/63ec0d8268bf45d59c3fa1648c56ddc6",
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
 		}
 	]
 }
